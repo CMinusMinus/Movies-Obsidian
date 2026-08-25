@@ -5,8 +5,8 @@ tags:
 Watched:
 Cover Image: "[[<% tp.file.title %>.jpg]]"
 Type:
-Length (min):
-Date Added: 2026-08-25
+Length (min): <% tp.system.prompt("Length in min") %>
+Date Added: <% tp.date.now() %>
 ---
 ![[<% tp.file.title %>.jpg]]
 # Notes
