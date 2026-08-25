@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("movie")
+        - file.folder != "Templates"
+    order:
+      - file.name
+      - Director
+      - Length
+      - tags
