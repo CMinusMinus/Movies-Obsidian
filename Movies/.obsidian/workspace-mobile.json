@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Godfather Part 3.md",
+                "file": "Templates/Movie Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Godfather Part 3"
+              "title": "Movie Template"
             }
           }
         ],
@@ -160,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "The Godfather Part 3.md",
+            "file": "Templates/Movie Template.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -213,15 +213,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "5da52bbf84e2146e",
   "lastOpenFiles": [
+    "The Godfather Part 3.md",
     "Movies.base",
     "Templates/Movie Template.md",
     "Templates/Director Template.md",
-    "The Godfather Part 3.md",
     "Assets/1000_F_63634678_7ea6wuF1yvCq7NKkCAGnYUmcrsQEpEdm.jpg",
     "Francis Ford Coppola.md",
     "Movies!.md",

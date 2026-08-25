@@ -11,7 +11,7 @@
   "folder_templates": [],
   "file_templates": [],
   "syntax_highlighting": true,
-  "syntax_highlighting_mobile": true,
+  "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [],
   "startup_templates": [],
   "intellisense_render": "1",
