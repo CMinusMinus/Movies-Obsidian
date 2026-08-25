@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "Watched": "checkbox",
-    "Length (min)": "number"
+    "Length (min)": "number",
+    "Type": "multitext"
   }
 }
