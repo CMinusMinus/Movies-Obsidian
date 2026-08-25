@@ -4,6 +4,5 @@ tags:
   - movie
 Watched:
 Length:
-Cover Image:
+Cover Image: "[[1000_F_63634678_7ea6wuF1yvCq7NKkCAGnYUmcrsQEpEdm.jpg]]"
 ---
-![[1000_F_63634678_7ea6wuF1yvCq7NKkCAGnYUmcrsQEpEdm.jpg]]
