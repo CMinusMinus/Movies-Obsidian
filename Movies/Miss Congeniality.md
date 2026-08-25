@@ -7,5 +7,5 @@ Cover Image:
 Type:
 Length (min):
 ---
-![[Assets/Miss Congeniality]]
+
 # Notes
