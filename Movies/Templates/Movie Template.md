@@ -3,7 +3,7 @@ Director: "[[Director Template]]"
 tags:
   - movie
 Watched:
-Cover Image: "[[<% file.name %>.jpg]]"
+Cover Image: <% link(file.name+'.jpg') %>
 Type:
 Length (min):
 ---
