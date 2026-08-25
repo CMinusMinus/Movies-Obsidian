@@ -134,7 +134,7 @@
             }
           },
           {
-            "id": "03b1a459cc5398cd",
+            "id": "4ce72afe665f568f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -301,10 +301,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "03b1a459cc5398cd",
+  "active": "4ce72afe665f568f",
   "lastOpenFiles": [
     "Templates/Movie Template.md",
     "Untitled.md",
+    "Blank.md",
     "Assets/Blank.jpg",
     "Blah.md",
     "Templates/Test templater.md",
