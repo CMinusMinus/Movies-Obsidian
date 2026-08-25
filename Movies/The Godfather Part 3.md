@@ -2,7 +2,7 @@
 Director: "[[Francis Ford Coppola]]"
 tags:
   - movie
-Watched:
+Watched: false
 Length (min): 160
 Cover Image: "[[GodfatherIII2.jpg]]"
 Type:

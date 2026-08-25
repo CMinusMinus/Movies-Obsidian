@@ -6,7 +6,7 @@ formulas:
   Length: (file.properties['Length (min)']/60).floor() + 'h' + file.properties['Length (min)'] % 60 + 'm'
 views:
   - type: cards
-    name: Table
+    name: All Movies
     filters:
       and:
         - file.hasTag("movie")
@@ -15,6 +15,9 @@ views:
       - file.name
       - Director
       - formula.Length
+    image: note.Cover Image
+    imageFit: contain
+    cardSize: 620
   - type: cards
     name: Francis Ford Coppola
     filters:
@@ -24,6 +27,8 @@ views:
       - file.name
       - formula.Length
     image: note.Cover Image
+    cardSize: 250
+    imageFit: contain
   - type: table
     name: Director Template
     filters:
@@ -31,6 +36,11 @@ views:
         - Director == link("Director Template")
   - type: table
     name: By Length
+    order:
+      - formula.Length
+      - file.name
+      - Director
+      - Type
     sort:
       - property: Length (min)
         direction: ASC
@@ -39,4 +49,10 @@ views:
     groupBy:
       property: Type
       direction: ASC
+    order:
+      - file.name
+      - Director
+      - formula.Length
     image: note.Cover Image
+    imageFit: contain
+    cardSize: 240
