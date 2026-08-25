@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sinners.md",
+                "file": "Templates/Movie Template.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Sinners"
+              "title": "Movie Template"
             }
           }
         ],
@@ -202,7 +202,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Sinners.md",
+            "file": "Templates/Movie Template.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -261,8 +261,8 @@
   },
   "active": "5b63cad62a7ecdd3",
   "lastOpenFiles": [
-    "Miss Congeniality.md",
     "Sinners.md",
+    "Miss Congeniality.md",
     "Templates/Movie Template.md",
     "The Godfather Part 3.md",
     "Donald Petrie.md",
