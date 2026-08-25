@@ -70,9 +70,9 @@
               "type": "bases",
               "state": {
                 "file": "Movies.base",
-                "viewName": "Table"
+                "viewName": "Francis Ford Coppola"
               },
-              "icon": "lucide-table",
+              "icon": "lucide-layout-grid",
               "title": "Movies"
             }
           }
