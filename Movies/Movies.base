@@ -30,3 +30,14 @@ views:
     filters:
       and:
         - Director == link("Director Template")
+  - type: table
+    name: By Length
+    sort:
+      - property: Length (min)
+        direction: ASC
+  - type: cards
+    name: Grouped By Type
+    groupBy:
+      property: Type
+      direction: ASC
+    image: note.Cover Image
