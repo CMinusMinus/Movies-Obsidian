@@ -1,5 +1,5 @@
 ---
-Director: "[[Director Template]]"
+Director: "[[Donald]]"
 tags:
   - movie
 Watched:
