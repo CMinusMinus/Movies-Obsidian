@@ -3,10 +3,9 @@ Director: "[[Director Template]]"
 tags:
   - movie
 Watched:
-Cover Image: "[[<% tp.file.name %>.jpg]]"
+Cover Image: "[[<% tp.file.title %>.jpg]]"
 Type:
 Length (min):
 ---
-![[Blank.jpg]]
-
+![[<% tp.file.title %>.jpg]]
 # Notes

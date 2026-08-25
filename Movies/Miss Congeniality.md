@@ -3,10 +3,7 @@ Director: "[[Director Template]]"
 tags:
   - movie
 Watched:
-Cover Image: "[[undefined.jpg]]"
+Cover Image: "[[Miss Congeniality.jpg]]"
 Type:
 Length (min):
 ---
-![[Blank.jpg]]
-
-# Notes
