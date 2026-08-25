@@ -56,3 +56,8 @@ views:
     image: note.Cover Image
     imageFit: contain
     cardSize: 240
+  - type: table
+    name: By Director Whos File This is
+    filters:
+      and:
+        - file.hasLink("file()")
