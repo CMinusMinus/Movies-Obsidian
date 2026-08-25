@@ -67,13 +67,14 @@
             "id": "5da52bbf84e2146e",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Movies.base",
-                "viewName": "Francis Ford Coppola"
+                "file": "The Godfather Part 3.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "Movies"
+              "icon": "lucide-file",
+              "title": "The Godfather Part 3"
             }
           }
         ],
@@ -173,7 +174,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Movies.base",
+            "file": "The Godfather Part 3.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -231,8 +232,8 @@
   },
   "active": "5da52bbf84e2146e",
   "lastOpenFiles": [
-    "The Godfather Part 3.md",
     "Movies.base",
+    "The Godfather Part 3.md",
     "Templates/Director Template.md",
     "Templates/Movie Template.md",
     "Francis Ford Coppola.md",
