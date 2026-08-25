@@ -60,4 +60,4 @@ views:
     name: By Director Whos File This is
     filters:
       and:
-        - file.hasLink("file()")
+        - Director == link(file.name)
