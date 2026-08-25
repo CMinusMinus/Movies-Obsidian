@@ -1,5 +1,5 @@
 ---
-Director: "[[Director Template]]"
+Director: '[[<% await tp.system.prompt("Director") %>]]'
 tags:
   - movie
 Watched:
