@@ -1,5 +1,5 @@
 formulas:
-  Length: property(Length (min))
+  Length: floor(file.properties['Length (min)']/60) + 'h' + file.properties['Length (min)']
 views:
   - type: table
     name: Table
