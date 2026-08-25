@@ -4,12 +4,12 @@ tags:
   - movie
 Watched: false
 Length (min): 160
-Cover Image: "[[GodfatherIII2.jpg]]"
+Cover Image: "[[The Godfather Part 3.jpg]]"
 Type:
   - Mob
   - Drama
 Date Added: 2026-08-25
 ---
-![[GodfatherIII2.jpg]]
+![[The Godfather Part 3.jpg]]
 
 # Notes
