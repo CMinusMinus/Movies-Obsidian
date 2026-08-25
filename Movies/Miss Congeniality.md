@@ -7,3 +7,5 @@ Cover Image: "[[Miss Congeniality.jpg]]"
 Type:
 Length (min):
 ---
+![[Miss Congeniality.jpg]]
+# Notes
