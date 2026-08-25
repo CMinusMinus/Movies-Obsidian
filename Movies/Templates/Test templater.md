@@ -1,1 +1,1 @@
-<% system.prompt("whoaaaaa") %>
+<% await tp.system.prompt("whoaaaaa") %>
