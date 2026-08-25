@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miss Congeniality.md",
+                "file": "Templates/Movie Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Miss Congeniality"
+              "title": "Movie Template"
             }
           }
         ],
@@ -188,7 +188,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Miss Congeniality.md",
+            "file": "Templates/Movie Template.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -247,15 +247,16 @@
   },
   "active": "8ffd1ff32b46019d",
   "lastOpenFiles": [
-    "Assets/Miss Congeniality.md",
+    "Assets/1000_F_63634678_7ea6wuF1yvCq7NKkCAGnYUmcrsQEpEdm.jpg",
+    "Templates/Movie Template.md",
     "Miss Congeniality.md",
+    "Assets/Miss Congeniality.jpg",
+    "Assets/Miss Congeniality.md",
     "Templates/Director Template.md",
     "TEST.md",
-    "Templates/Movie Template.md",
     "Francis Ford Coppola.md",
     "Movies.base",
     "The Godfather Part 3.md",
-    "Assets/1000_F_63634678_7ea6wuF1yvCq7NKkCAGnYUmcrsQEpEdm.jpg",
     "Movies!.md",
     "Assets/GodfatherIII2.jpg",
     "Assets/Francis Ford Coppola.md",
