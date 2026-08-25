@@ -2,4 +2,4 @@
 tags:
   - director
 ---
-![[Movies.base#<% p]]
+![[Movies.base#<% tp.]]
