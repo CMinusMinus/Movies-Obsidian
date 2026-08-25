@@ -5,3 +5,4 @@ tags:
 Watched:
 Length (min): 160
 ---
+![[Assets/Francis Ford Coppola]]
