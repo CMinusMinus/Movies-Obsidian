@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Movie Template.md",
+                "file": "Miss Congeniality.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Movie Template"
+              "title": "Miss Congeniality"
             }
           }
         ],
@@ -188,7 +188,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Templates/Movie Template.md",
+            "file": "Miss Congeniality.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -247,8 +247,8 @@
   },
   "active": "8ffd1ff32b46019d",
   "lastOpenFiles": [
-    "Assets/1000_F_63634678_7ea6wuF1yvCq7NKkCAGnYUmcrsQEpEdm.jpg",
     "Templates/Movie Template.md",
+    "Assets/1000_F_63634678_7ea6wuF1yvCq7NKkCAGnYUmcrsQEpEdm.jpg",
     "Miss Congeniality.md",
     "Assets/Miss Congeniality.jpg",
     "Assets/Miss Congeniality.md",

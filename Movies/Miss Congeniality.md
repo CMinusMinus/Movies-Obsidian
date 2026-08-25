@@ -7,5 +7,3 @@ Cover Image:
 Type:
 Length (min):
 ---
-![[Miss Congeniality.jpg]]
-# Notes
