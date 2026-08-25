@@ -1,11 +1,5 @@
 ---
-Director: "[[Director Template]]"
 tags:
-  - movie
-Watched:
-Cover Image: "[[Donald Petrie.jpg]]"
-Type:
-Length (min):
+  - director
 ---
-![[Donald Petrie.jpg]]
-# Notes
+![[Movies.base#Director Embed]]
