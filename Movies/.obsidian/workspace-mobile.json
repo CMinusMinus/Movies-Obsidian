@@ -134,17 +134,17 @@
             }
           },
           {
-            "id": "4ce72afe665f568f",
+            "id": "944435ec470b9883",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Blank.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Blank"
             }
           }
         ],
@@ -244,7 +244,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
+            "file": "Blank.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -301,10 +301,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4ce72afe665f568f",
+  "active": "944435ec470b9883",
   "lastOpenFiles": [
+    "Blank.md",
     "Templates/Movie Template.md",
-    "Untitled.md",
     "Blank.md",
     "Assets/Blank.jpg",
     "Blah.md",
