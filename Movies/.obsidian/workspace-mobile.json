@@ -67,13 +67,14 @@
             "id": "08da8df9c3540204",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Movies.base",
-                "viewName": "By Director Whos File This is"
+                "file": "Francis Ford Coppola.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Movies"
+              "icon": "lucide-file",
+              "title": "Francis Ford Coppola"
             }
           }
         ],
@@ -173,7 +174,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Movies.base",
+            "file": "Francis Ford Coppola.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -232,8 +233,8 @@
   },
   "active": "08da8df9c3540204",
   "lastOpenFiles": [
-    "Francis Ford Coppola.md",
     "Movies.base",
+    "Francis Ford Coppola.md",
     "Templates/Movie Template.md",
     "Templates/Director Template.md",
     "TEST.md",

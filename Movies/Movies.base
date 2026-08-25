@@ -60,4 +60,4 @@ views:
     name: By Director Whos File This is
     filters:
       and:
-        - Director == link(file.name)
+        - Director == this
