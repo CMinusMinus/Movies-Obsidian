@@ -8,6 +8,7 @@ Cover Image: "[[GodfatherIII2.jpg]]"
 Type:
   - Mob
   - Drama
+Date Added: 2026-08-25
 ---
 ![[GodfatherIII2.jpg]]
 

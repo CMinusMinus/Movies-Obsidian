@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Movie Template.md",
+                "file": "Miss Congeniality.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Movie Template"
+              "title": "Miss Congeniality"
             }
           }
         ],
@@ -188,7 +188,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Templates/Movie Template.md",
+            "file": "Miss Congeniality.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -247,9 +247,10 @@
   },
   "active": "8ffd1ff32b46019d",
   "lastOpenFiles": [
+    "Templates/Movie Template.md",
+    "The Godfather Part 3.md",
     "Miss Congeniality.md",
     "Donald Petrie.md",
-    "Templates/Movie Template.md",
     "Templates/Director Template.md",
     "Assets/Miss Congeniality.md",
     "Assets/Blank.jpg",
@@ -257,7 +258,6 @@
     "TEST.md",
     "Francis Ford Coppola.md",
     "Movies.base",
-    "The Godfather Part 3.md",
     "Movies!.md",
     "Assets/GodfatherIII2.jpg",
     "Assets/Francis Ford Coppola.md",

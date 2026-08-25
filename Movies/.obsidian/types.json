@@ -5,6 +5,7 @@
     "tags": "tags",
     "Watched": "checkbox",
     "Length (min)": "number",
-    "Type": "multitext"
+    "Type": "multitext",
+    "Date Added": "date"
   }
 }
