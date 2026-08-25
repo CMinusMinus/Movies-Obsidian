@@ -1,3 +1,7 @@
+filters:
+  and:
+    - file.hasTag("movie")
+    - file.folder != "Templates"
 formulas:
   Length: (file.properties['Length (min)']/60).floor() + 'h' + file.properties['Length (min)'] % 60 + 'm'
 views:
@@ -14,3 +18,9 @@ views:
       - formula.Length
   - type: cards
     name: Francis Ford Coppola
+    filters:
+      and:
+        - Director == link("Francis Ford Coppola")
+    order:
+      - file.name
+      - formula.Length
