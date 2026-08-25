@@ -2,4 +2,4 @@
 tags:
   - director
 ---
-![[Movies.base#<% tp.file.title %>]]
+![[Movies.base#Director Embed]]

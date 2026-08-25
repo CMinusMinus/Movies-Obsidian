@@ -56,8 +56,16 @@ views:
     image: note.Cover Image
     imageFit: contain
     cardSize: 240
-  - type: table
-    name: By Director Whos File This is
+  - type: cards
+    name: Director Embed
     filters:
       and:
         - Director == this
+    order:
+      - file.name
+      - formula.Length
+      - Watched
+      - Type
+    cardSize: 300
+    image: note.Cover Image
+    imageFit: contain
