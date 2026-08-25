@@ -1,5 +1,5 @@
 formulas:
-  Length: (file.properties['Length (min)']/60).floor() + 'h' + file.properties['Length (min)']
+  Length: (file.properties['Length (min)']/60).floor() + 'h' + file.properties['Length (min)'] % 60
 views:
   - type: table
     name: Table
