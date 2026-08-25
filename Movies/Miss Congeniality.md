@@ -1,5 +1,5 @@
 ---
-Director: "[[Donald]]"
+Director: "[[Donald Petrie]]"
 tags:
   - movie
 Watched:
