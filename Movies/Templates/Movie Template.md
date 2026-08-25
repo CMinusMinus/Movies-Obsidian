@@ -4,4 +4,5 @@ tags:
   - movie
 Watched:
 Length:
+Cover Image:
 ---

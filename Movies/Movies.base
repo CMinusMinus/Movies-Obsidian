@@ -25,3 +25,8 @@ views:
       - file.name
       - formula.Length
     image: note.Cover Image
+  - type: table
+    name: Director Template
+    filters:
+      and:
+        - Director == link("Director Template")

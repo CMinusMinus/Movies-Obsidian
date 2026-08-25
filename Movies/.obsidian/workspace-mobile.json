@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2a735c52f9fb413c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Movies!.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Movies!"
-            }
-          },
-          {
             "id": "78f2bbb64899a3f7",
             "type": "leaf",
             "state": {
@@ -69,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Movies!.md",
+                "file": "Templates/Movie Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Movies!"
+              "title": "Movie Template"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -174,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Movies!.md",
+            "file": "Templates/Movie Template.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -232,15 +218,15 @@
   },
   "active": "5da52bbf84e2146e",
   "lastOpenFiles": [
-    "Francis Ford Coppola.md",
-    "Movies.base",
     "The Godfather Part 3.md",
+    "Templates/Director Template.md",
+    "Francis Ford Coppola.md",
+    "Movies!.md",
+    "Movies.base",
     "Assets/GodfatherIII2.jpg",
     "Assets/Francis Ford Coppola.md",
     "Assets",
-    "Templates/Director Template.md",
     "Templates/Movie Template.md",
-    "Movies!.md",
     "Templates",
     "Hello.md"
   ]
