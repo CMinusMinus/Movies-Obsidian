@@ -5,7 +5,7 @@ filters:
 formulas:
   Length: (file.properties['Length (min)']/60).floor() + 'h' + file.properties['Length (min)'] % 60 + 'm'
 views:
-  - type: table
+  - type: cards
     name: Table
     filters:
       and:
@@ -14,7 +14,6 @@ views:
     order:
       - file.name
       - Director
-      - tags
       - formula.Length
   - type: cards
     name: Francis Ford Coppola

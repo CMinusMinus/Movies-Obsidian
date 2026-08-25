@@ -4,11 +4,11 @@ tags:
   - movie
 Watched:
 Length (min): 160
-Cover Image: "[[1000_F_63634678_7ea6wuF1yvCq7NKkCAGnYUmcrsQEpEdm.jpg]]"
+Cover Image: "[[GodfatherIII2.jpg]]"
 Type:
   - Mob
   - Drama
 ---
-![[1000_F_63634678_7ea6wuF1yvCq7NKkCAGnYUmcrsQEpEdm.jpg]]
+![[GodfatherIII2.jpg]]
 
 # Notes
