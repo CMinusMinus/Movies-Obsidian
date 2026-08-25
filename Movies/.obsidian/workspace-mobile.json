@@ -146,9 +146,23 @@
               "icon": "lucide-file",
               "title": "Blank"
             }
+          },
+          {
+            "id": "d36d79ea354e4d02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To Add.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To Add"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -301,11 +315,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "944435ec470b9883",
+  "active": "d36d79ea354e4d02",
   "lastOpenFiles": [
     "Blank.md",
+    "To Add.md",
     "Templates/Movie Template.md",
-    "Blank.md",
     "Assets/Blank.jpg",
     "Blah.md",
     "Templates/Test templater.md",
