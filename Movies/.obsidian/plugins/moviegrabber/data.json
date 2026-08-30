@@ -4,7 +4,7 @@
   "OMDb_API_Key": "79e54e7a",
   "YouTube_API_Key": "",
   "SwitchToCreatedNote": true,
-  "MovieTemplatePath": "Templates/Movie Template.md",
+  "MovieTemplatePath": "Moviegrabber-example-template.md",
   "SeriesTemplatePath": "",
   "PlotLength": "short",
   "FilenameTemplateMovie": "{{Title}}",
