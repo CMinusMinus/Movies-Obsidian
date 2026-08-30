@@ -1,5 +1,5 @@
 {
-  "MovieDirectory": "Movies",
+  "MovieDirectory": "/",
   "SeriesDirectory": "Series",
   "OMDb_API_Key": "79e54e7a",
   "YouTube_API_Key": "",
