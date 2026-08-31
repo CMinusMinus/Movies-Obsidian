@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moviegrabber-example-template.md",
+                "file": "The Help.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Moviegrabber-example-template"
+              "title": "The Help"
             }
           }
         ],
@@ -317,10 +317,12 @@
   },
   "active": "d36d79ea354e4d02",
   "lastOpenFiles": [
+    "Moviegrabber-example-template.md",
+    "The Help.md",
+    "Assets/The Help.jpg",
     "Inception.md",
     "Rocketman.md",
     "Assets/Inception.jpg",
-    "Moviegrabber-example-template.md",
     "Assets/Rocketman.jpg",
     "Untitled.md",
     "Untitled",
