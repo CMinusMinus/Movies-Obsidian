@@ -167,16 +167,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chris Na.md",
+                "file": "Chris and George's Music Corner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chris Na"
+              "title": "Chris and George's Music Corner"
+            }
+          },
+          {
+            "id": "914f6cd4f5da9073",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -329,10 +339,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fd5b8b6574d95608",
+  "active": "914f6cd4f5da9073",
   "lastOpenFiles": [
+    "Chris and George's Music Corner.md",
     "The Help.md",
-    "Chris Na.md",
     "Moviegrabber-example-template.md",
     "Assets/The Help.jpg",
     "Inception.md",
