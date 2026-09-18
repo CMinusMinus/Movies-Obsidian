@@ -174,19 +174,9 @@
               "icon": "lucide-file",
               "title": "Chris and George's Music Corner"
             }
-          },
-          {
-            "id": "914f6cd4f5da9073",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -339,7 +329,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "914f6cd4f5da9073",
+  "active": "fd5b8b6574d95608",
   "lastOpenFiles": [
     "Chris and George's Music Corner.md",
     "The Help.md",
