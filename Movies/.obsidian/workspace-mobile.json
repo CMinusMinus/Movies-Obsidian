@@ -165,14 +165,13 @@
             "id": "fd5b8b6574d95608",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Chris and George's Music Corner.md",
-                "mode": "source",
-                "source": false
+                "file": "Movies.base",
+                "viewName": "All Movies"
               },
-              "icon": "lucide-file",
-              "title": "Chris and George's Music Corner"
+              "icon": "lucide-layout-grid",
+              "title": "Movies"
             }
           }
         ],
